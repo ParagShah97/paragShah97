@@ -3,6 +3,12 @@
 
 ---
 
+## Problem-Solving
+
+I love solving complex DSA problems, can checkout the problems solved. I activly add the solution I solved recently.
+🔗 [DSA Problems and Solutions](https://github.com/ParagShah97/DSA-Problems)
+
+
 ## 💻 Backend Engineering
 
 I'm highly proficient in **Java**, **Spring Boot**, and **Docker**, with a strong foundation in building scalable microservices.  
