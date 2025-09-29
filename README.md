@@ -29,6 +29,9 @@ I also enjoy crafting responsive UIs using **Angular**, **HTML**, and **CSS**.
 At **Best Practical Solutions, LLC**, I worked on integrating **LLMs** into enterprise ticketing workflows, enhancing productivity and automation.  
 🔗 [Request Tracker AI Extension](https://github.com/ParagShah97/rt-extension-ai)
 
+Checkout mini GenAI projects (POCs) for learning AI automation.
+🔗 [Generative AI projects](https://github.com/ParagShah97/GenerativeAI_Projects)
+
 ---
 
 ## 🧠 Deep Learning & Model Building
